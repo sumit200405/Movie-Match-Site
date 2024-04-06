@@ -27,7 +27,7 @@ body {
   p {
     font-size: 1.2em;
     margin-bottom: 15px;
-    color: #606060;
+    color: #808080;
   }
   
   /* Main content styles */
@@ -50,13 +50,13 @@ body {
   h2 {
     font-size: 1.8em;
     margin-bottom: 15px;
-    color: #333;
+    color: #4a4a4a;
   }
   
   ol {
     padding-left: 25px;
     list-style-type: disc;
-    color: #333;
+    color: #606060;
   }
   
   a {
@@ -77,12 +77,12 @@ body {
   /* Download buttons styles */
   .download-buttons {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-top: 30px;
   }
   
   .download-buttons a {
-    width: 48%;
+    width: 38%;
   }
   
   /* Footer styles */
@@ -90,6 +90,6 @@ body {
     text-align: center;
     padding: 20px 0;
     background-color: #323131;
-    color: #6e6666;
+    color: #ffffff;
   }
   
